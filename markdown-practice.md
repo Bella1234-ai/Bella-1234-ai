@@ -9,7 +9,7 @@
   - To learn version control
   - Write clean and efficient code
   - Gain confidence in debugging and testing programs
-  
+
 ----
 ## CREATE LINKS
   - [bella-1234-aimarkdownparactice](https://pacticemarkdown)
@@ -17,14 +17,13 @@
 
  ----   
  ## LIST UNORDERED 
-    
  ***3 things i Bella Machio want to learn are:***
   - Is to strengthen my coding skills
   - Improve my understanding of data structures and algorithms
   - Build real-world projects that enhance my problem-solving ability
     
    ---- 
-    ## UNORDERED LIST
+## Unordered list
  ***THE THREE STEPS THAT I WILL TRULLY FOLLOW ARE***
 -  1. Initialize Repository 
    2. Check File Status
@@ -47,21 +46,16 @@
 - [ ] Understand Github
 - [ ] Finish Project
 - [ ] Understand Coding
-
 ----
 ## Code block
 `understand markdown`
 ```python 
 Print ("hallo World")
-
 ----
 ## Blockquote
 > With time it get better time if determined
-
 ----
-
 ## about me
-
 ## My name is Bella
 **I am an enthusiastic programmer** focused on:
 - Improving my coding skills
