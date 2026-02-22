@@ -12,8 +12,8 @@
   
 ----
 ## CREATE LINKS
-  - https://github.com/Bella1234-ai
-  - https://bella-1234-ai.mozilla.org
+  - [bella-1234-aimarkdownparactice](https://pacticemarkdown)
+  - [bella-1234-ai](https://bella)
 
  ----   
  ## LIST ORDERED AND UNORDERED LIST
@@ -41,14 +41,22 @@
  Italic|General HTML         |[bella-1234-aimarkdownparactice](https://pacticemarkdown)
  image |Documenting code     |
 
-       ---- 
+----
  ## TASK LIST
 - [x] Understand HTML
 - [ ] Understand Github
 - [ ] Finish Project
 - [ ] Understand Coding
-     ----
-## Code bock
 
-      
+----
+## Code block
+`understand markdown`
+```python 
+Print ("hallo World")
+
+----
+## Code block
+
+
+
     
