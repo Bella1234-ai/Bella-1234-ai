@@ -16,15 +16,15 @@
   - [bella-1234-ai](https://bella)
 
  ----   
- ## LIST ORDERED AND UNORDERED LIST
-     ### Unordered
+ ## LIST UNORDERED 
+    
  ***3 things i Bella Machio want to learn are:***
   - Is to strengthen my coding skills
   - Improve my understanding of data structures and algorithms
   - Build real-world projects that enhance my problem-solving ability
     
    ---- 
-    ### ordered
+    ## UNORDERED LIST
  ***THE THREE STEPS THAT I WILL TRULLY FOLLOW ARE***
 -  1. Initialize Repository 
    2. Check File Status
@@ -55,8 +55,21 @@
 Print ("hallo World")
 
 ----
-## Code block
+## Blockquote
+> With time it get better time if determined
+
+----
+
+## about me
+
+## My name is Bella
+**I am an enthusiastic programmer** focused on:
+- Improving my coding skills
+- Learning modern technologies
+- Building practical software solutions.
+`I enjoy`
+-  _solving problems_ logically and _continuously expanding my knowledge in software developme
+    _
 
 
 
-    
