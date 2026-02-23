@@ -9,19 +9,16 @@
   - To learn version control
   - Write clean and efficient code
   - Gain confidence in debugging and testing programs
-
 ----
 ## CREATE LINKS
   - [bella-1234-aimarkdownparactice](https://pacticemarkdown)
   - [bella-1234-ai](https://bella)
-
  ----   
  ## LIST UNORDERED 
  ***3 things i Bella Machio want to learn are:***
   - Is to strengthen my coding skills
   - Improve my understanding of data structures and algorithms
-  - Build real-world projects that enhance my problem-solving ability
-    
+  - Build real-world projects that enhance my problem-solving ability   
    ---- 
 ## Unordered list
  ***THE THREE STEPS THAT I WILL TRULLY FOLLOW ARE***
@@ -29,8 +26,7 @@
    2. Check File Status
    3. Add Files to Staging Area
    4. Commit Changes
-   5. Connect to Remote Repository 
-      
+   5. Connect to Remote Repository  
        ---- 
        ## Table
  |Tool | Purpose             | Link |
@@ -39,7 +35,6 @@
  Bold  |Creating web Content |[bella-1234-ai](https://bella)
  Italic|General HTML         |[bella-1234-aimarkdownparactice](https://pacticemarkdown)
  image |Documenting code     |
-
 ----
  ## TASK LIST
 - [x] Understand HTML
